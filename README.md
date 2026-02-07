@@ -6,7 +6,7 @@ A simple web application for managing student notes with a clean interface, buil
  
 - ✅ Add notes with title and description       
 - ✅ View all notes in a clean, organized layout        
-- ✅ Notes are stored in MongoDB database
+- ✅ Notes are stored in MongoDB database 
 - ✅ Simple and beginner-friendly interface
 - ✅ Separate frontend and backend architecture  
 - ✅ Real-time updates and error handling    
