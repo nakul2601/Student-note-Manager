@@ -11,7 +11,7 @@ A simple web application for managing student notes with a clean interface, buil
 - ✅ Separate frontend and backend architecture  
 - ✅ Real-time updates and error handling  
 - ✅ Responsive design for all devices     
-  
+   
 ## Project Structure 
   
 ``` 
