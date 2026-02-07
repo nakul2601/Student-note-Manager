@@ -13,7 +13,7 @@ A simple web application for managing student notes with a clean interface, buil
 - ✅ Responsive design for all devices    
   
 ## Project Structure
-
+  
 ```
 student-notes-manager/
 ├── backend/
