@@ -2,7 +2,7 @@
 
 A simple web application for managing student notes with a clean interface, built with HTML, CSS, JavaScript, Node.js, Express, and MongoDB.
 
-## Features
+## Features 
   
 - ✅ Add notes with title and description        
 - ✅ View all notes in a clean, organized layout      
