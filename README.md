@@ -14,7 +14,7 @@ A simple web application for managing student notes with a clean interface, buil
   
 ## Project Structure
   
-```
+``` 
 student-notes-manager/
 ├── backend/
 │   ├── package.json          # Backend dependencies
